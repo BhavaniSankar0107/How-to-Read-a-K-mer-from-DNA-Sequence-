@@ -1,4 +1,5 @@
 K-Mer Finder
+
 Background
 This Python script analyzes a DNA sequence stored in a file, identifying and counting the occurrences of k-mers (subsequences of length k). Utilizing the collections module,
 it employs a sliding window approach to extract all possible k-mers from the sequence. The script then utilizes the Counter class to tally the occurrences of each unique k-mer. Finally,
