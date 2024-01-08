@@ -9,4 +9,4 @@ patterns within DNA sequences. Try out the code with different k values to find 
 
 Before Getting Started
 
-Make sure that collections module is installed in your python environment. Mostly you get this module present in standard library of python.
+Make sure that collections module is installed in your python environment. Mostly you get this module already present in standard library of python.
